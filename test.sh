@@ -1,2 +1,2 @@
 #!/bin/sh
-echo $UNQUOTED_VAR
+echo "$UNQUOTED_VAR"
